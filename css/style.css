@@ -1,7 +1,13 @@
 #main_content {
     background-color: chartreuse;
+    height: 80%;
+    margin-top: 50px;
 }
 
 #main_content_fluid {
     background-color: blueviolet;
+}
+
+.carousel img {
+    margin: auto;
 }
